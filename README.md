@@ -50,7 +50,7 @@ for epoch in 1, 2, ..., epoch_max do
 end
 Save parameters Θ^'=Θ
 Second stage: Train the SPSF-DST model parameters.
-for epoch in 1, 2, ..., 〖epoch〗_max do
+for epoch in 1, 2, ..., epoch_max do
  for b_t in D do
     1.Compute loss: L
                  L_stage2(Θ') = Eq. 35                 for SPSF-DST model
