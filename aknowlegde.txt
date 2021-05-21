@@ -1,2 +1,0 @@
-Thank you for the auther of Efficient Dialogue State Tracking by Selectively Overwriting Memory(https://arxiv.org/abs/1911.03906).
-[Sungdong Kim](https://github.com/dsksd)
