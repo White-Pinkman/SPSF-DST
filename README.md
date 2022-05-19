@@ -76,7 +76,6 @@ python3 evaluation.py
 ------------------------------
 op_code: 4, is_gt_op: False, is_gt_p_state: False, is_gt_gen: False
 Epoch 29 joint accuracy :  0.5496742671009772
-Epoch 29 slot label F1 :  0.6701552715106803
 Epoch 29 slot turn accuracy :  0.9744933043792557
 Epoch 29 slot turn F1:  0.9119078410951678
 Epoch 29 op accuracy :  0.9754433586680724
