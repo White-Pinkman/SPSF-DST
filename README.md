@@ -8,12 +8,6 @@ This code is the pytorch implementation of [A Stack-propagation Framework with S
 
 <p align="left"><img width="95%" src="SPSF-DST.png" /></p>
 
-## Slot filling and DST
-<p align="left"><img width="95%" src="Relation.png" /></p>
-
-## Stack-propagation framework
-<p align="left"><img width="95%" src="stack-propagation.png" /></p>
-
 
 
 ## Requirements
