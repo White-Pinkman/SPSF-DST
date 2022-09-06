@@ -27,12 +27,11 @@ Data preprocessing: data/mwz1.0/XXX_relabel.jason
 
 
 ## Model Training
-To train the SPSF-DST model, please run this script. <br>
-`$DATASET_DIR` is the root directory of the preprocessed dataset, and `$SAVE_DIR` is output directory that best_model's checkpoint will be saved. <br>
-This script contains the downloading process of pretrained-BERT checkpoint depending on `--bert_ckpt_path`. `--bert_ckpt_path` should contain either `base` or `large`. 
+
 ```
 
-Algorithm: Training a SPSF-DST model.
+Training a SPSF-DST model.
+
 Initialize model parameters Θ.
 First stage: Train the Dialogue Encoder parameters.
 Set the max number of epochs: epoch_max
@@ -98,7 +97,7 @@ Main results on MultiWOZ dataset (Joint Goal Accuracy)
 
 ```
 
-### Acknowledge
+Acknowledge
 Thanks for authors of the paper Efficient Dialogue State Tracking by Selectively Overwriting Memory.
 > [Sungdong Kim](https://github.com/dsksd), [Sohee Yang](https://github.com/soheeyang), [Gyuwan Kim](mailto:gyuwan.kim@navercorp.com), [Sang-woo Lee](https://scholar.google.co.kr/citations?user=TMTTMuQAAAAJ)<br>
 > In ACL 2020.
