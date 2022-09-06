@@ -79,14 +79,10 @@ Epoch 29 joint accuracy :  0.5496742671009772
 Epoch 29 slot turn accuracy :  0.9744933043792557
 Epoch 29 slot turn F1:  0.9119078410951678
 Epoch 29 op accuracy :  0.9754433586680724
-Epoch 29 op F1 :  {'delete': 0.030441400304414005, 'update': 0.7863481228668942, 'dontcare': 0.040632054176072234, 'carryover': 0.9872239161854839}
 Epoch 29 op hit count :  {'delete': 20, 'update': 6912, 'dontcare': 9, 'carryover': 208671}
 Epoch 29 op all count :  {'delete': 1273, 'update': 9970, 'dontcare': 410, 'carryover': 209387}
-Final Joint Accuracy :  0.4064064064064064
-Final slot turn F1 :  0.9099305099736027
 Latency Per Prediction : 35.321136 ms
 -----------------------------
-
 
 ```
 
