@@ -6,7 +6,7 @@ This code is the pytorch implementation of [A Stack-propagation Framework with S
 > Yufan Wang，Jie Mei
 
 
-<p align="left"><img width="95%" src="img/SPSF-DST.png" /></p>
+<p align="left"><img width="95%" src="SPSF-DST.png" /></p>
 
 
 ## Requirements
