@@ -14,7 +14,7 @@ This code is the pytorch implementation of [A Stack-propagation Framework with S
 ```
 python3.6
 pytorch-transformers==1.0.0
-torch==1.3.0a0+24ae9b5
+torch==1.3.0
 wget==3.2
 ```
 
